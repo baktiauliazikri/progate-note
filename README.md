@@ -1,7 +1,7 @@
 # ProgateNoteApp
 > Progate Note App
 ## Description
-To complete Mobile Developer Course (React Native)
+To complete FGA - Mobile Developer Course Progate (React Native)
 ## Main Features
 - Add task
 - Update task
